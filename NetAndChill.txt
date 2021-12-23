@@ -1,0 +1,6 @@
+1 mydoom flix1 card 150
+2 sobig flix2 UPI 200
+3 trozan flix3 InternetBanking 100
+4 klez flix4 card 200
+5 wannacry flix5 UPI 300
+6 Yaha flix6 card 100
